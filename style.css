@@ -5,7 +5,7 @@
     --cor-de-fundo: #e2a6df;
     --fundo-senha: #eba2d9;
     --fundo-texto: #eba2d9;
-    --borda: #e2a6df;
+    --borda: #000000;
     --roboto: 'Roboto', sans-serif;
     --roboto-mono: 'Roboto Mono', monospace;
 }
@@ -132,16 +132,16 @@ label {
 
 .fraca {
     width: 25%;
-    background-color: #E71B32;
+    background-color: #b4091d;
 }
 
 .media {
-    background-color: #FAF408;
+    background-color: #f7f5b5;
     width: 50%;
 }
 
 .forte {
-    background-color: #00FF85;
+    background-color: #2abb75a6;
     width: 100%;
 }
 
